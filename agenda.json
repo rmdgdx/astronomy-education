@@ -1,0 +1,1462 @@
+[
+ {
+  "code": "R.1",
+  "page": 15,
+  "title": "Understanding the Learners’ Experiences in Astronomy Education",
+  "subtitle": "",
+  "intro": "Where every agenda begins — with the learner. This theme gathers the challenges and possibilities students meet in astronomy, guiding methods that truly put learners first.",
+  "goal": "A",
+  "qcode": "A.1",
+  "question": "What are the experiences of students in learning astronomy?",
+  "table": "62",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Student academic achievement in astronomy",
+      "desc": "This topic examines how well students perform in astronomy and what shapes those results. Researchers might gather grades, test scores, or competition outcomes and relate them to factors such as prior schooling, resources, and teaching style. The findings reveal where learners thrive and where support is most needed.",
+      "variables": "Independent — prior schooling, learning resources, teaching approach, study habits; Dependent — astronomy achievement; Controls — grade level, socioeconomic status.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe astronomy achievement and the learner and school factors around it and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r (or Spearman rho); multiple regression to rank predictors."
+     },
+     {
+      "n": "2",
+      "title": "Investigating learning environments and opportunities which influence students’ prior knowledge, misconceptions, and general understanding",
+      "desc": "This research looks closely at the classrooms, homes, and communities that shape what students already believe about the sky. Classroom observations, concept inventories, and short interviews can surface both accurate ideas and stubborn misconceptions. The result is a clearer map of the starting points teachers must build upon.",
+      "variables": "Key variables — features of the learning environment (home, classroom, community); learners’ prior knowledge and misconceptions; general understanding.",
+      "method": "Explanatory sequential mixed-methods",
+      "method_text": "An explanatory sequential mixed-methods design suits this topic: a concept inventory first measures prior knowledge and misconceptions across a sample, then interviews explain how particular environments shaped them. The quantitative phase locates where misconceptions cluster; the qualitative phase uncovers why. Together they give both breadth and depth about learners’ starting points.",
+      "stats": "Quantitative — frequencies, mean/SD, misconception-frequency indices; Qualitative — thematic analysis; a joint display to integrate results."
+     },
+     {
+      "n": "3",
+      "title": "Investigating student barriers to learning astronomy",
+      "desc": "This study identifies the conceptual, emotional, and practical obstacles that make astronomy feel out of reach. Surveys and focus-group discussions with learners can bring these barriers into the open. Understanding them is the first step toward lessons that gently remove them.",
+      "variables": "Key variables — conceptual, affective, and practical barriers; learner background; access to resources.",
+      "method": "Descriptive survey with qualitative support",
+      "method_text": "A descriptive survey design, supported by focus-group discussions, is appropriate for mapping the barriers learners face. A validated questionnaire captures how common each barrier is, while focus groups reveal their texture and interconnections. Stratified sampling ensures learners of different backgrounds are fairly represented.",
+      "stats": "Frequencies, percentages, weighted means, and ranking of barriers; chi-square for group differences; thematic analysis of focus-group data."
+     },
+     {
+      "n": "4",
+      "title": "Astronomy as a program to develop students’ literacy and critical thinking skills",
+      "desc": "This topic explores how astronomy lessons can strengthen reading, reasoning, and evidence-based thinking. A comparison of astronomy-rich instruction with usual practice can measure gains in literacy and critical thinking. The study would show whether the wonders of the cosmos also sharpen everyday thinking.",
+      "variables": "Independent — astronomy-integrated instruction; Dependent — scientific literacy and critical-thinking scores; Controls — prior ability, reading level.",
+      "method": "Quasi-experimental (pretest–posttest control group)",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through an astronomy-integrated literacy programme and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in literacy and critical thinking can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "5",
+      "title": "Student support mechanism and engagement in learning astronomy",
+      "desc": "This research studies the tutoring, clubs, mentoring, and encouragement that keep learners motivated in astronomy. Engagement surveys or case studies can reveal which supports matter most and for whom. The insights help schools build a caring scaffold around every learner.",
+      "variables": "Independent — support mechanisms (tutoring, clubs, mentoring); Dependent — engagement and motivation; Moderators — gender, year level.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe the support mechanisms available and learners’ engagement and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r (or Spearman rho); multiple regression to rank predictors."
+     },
+     {
+      "n": "6",
+      "title": "Investigating misconceptions by students in astronomy",
+      "desc": "This topic pinpoints the specific misconceptions students hold about phenomena such as seasons, moon phases, and gravity. A validated concept inventory paired with interviews can document how these ideas form and persist. The results guide teachers toward the explanations that finally make concepts click.",
+      "variables": "Key variables — specific misconceptions (seasons, moon phases, gravity); their prevalence and persistence; grade level.",
+      "method": "Descriptive (diagnostic) design",
+      "method_text": "A descriptive diagnostic design fits, using a validated concept inventory to reveal which misconceptions learners hold and how widespread they are. Interviews with a subsample explain how the ideas formed and why they persist. Repeated measurement can also show whether misconceptions survive ordinary teaching.",
+      "stats": "Misconception frequencies and percentages; item analysis; McNemar’s test for pre/ post change; thematic analysis of interviews."
+     },
+     {
+      "n": "7",
+      "title": "Examining student cognitive processes and learning strategies in astronomy",
+      "desc": "This research investigates how students think, reason, and organise knowledge while learning astronomy. Think-aloud protocols and learning-strategy questionnaires can make these hidden processes visible. Understanding them helps teachers match instruction to how learners actually make sense of the sky.",
+      "variables": "Key variables — cognitive processes, learning strategies, problem-solving steps; task performance.",
+      "method": "Qualitative think-aloud with descriptive support",
+      "method_text": "A qualitative think-aloud methodology suits this topic, capturing the reasoning learners use as they work through astronomy tasks. Verbal protocols are recorded, transcribed, and coded for strategies, supported by a strategy-use questionnaire for breadth. The pairing exposes the hidden cognitive steps behind right and wrong answers.",
+      "stats": "Coding frequencies of strategies; inter-coder reliability (kappa); descriptive comparison of strategy use by performance level."
+     },
+     {
+      "n": "8",
+      "title": "The influence of learners’ self-efficacy in learning astronomy",
+      "desc": "This topic examines how a learner's belief in their own ability shapes their astronomy learning. A self-efficacy scale administered alongside achievement measures can reveal the strength of this link. The findings point to classroom practices that build quiet, lasting confidence.",
+      "variables": "Independent — astronomy self-efficacy; Dependent — achievement and persistence; Controls — prior performance, gender.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe learners’ self-efficacy and their achievement and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r; regression; optional mediation analysis."
+     },
+     {
+      "n": "9",
+      "title": "The influence of learners’ critical thinking skills on astronomy",
+      "desc": "This study explores how critical-thinking skills influence success and engagement in astronomy. Correlational or intervention designs can test whether stronger reasoning leads to deeper understanding. The work highlights astronomy's power to nurture careful, questioning minds.",
+      "variables": "Independent — critical-thinking skills; Dependent — astronomy achievement/ understanding; Controls — prior knowledge.",
+      "method": "Correlational–predictive",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe critical-thinking skills and astronomy performance and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Pearson r; simple and multiple regression; optional structural equation modelling."
+     },
+     {
+      "n": "10",
+      "title": "Identifying effective approaches to enhance students’ understanding and concept retention in astronomy",
+      "desc": "This research searches for the teaching approaches that help students understand and remember astronomy over time. Pre- and post-tests with delayed retention checks can compare methods fairly. The outcome is a practical shortlist of strategies that make learning stick.",
+      "variables": "Independent — instructional approach; Dependent — conceptual understanding and delayed retention; Controls — prior knowledge.",
+      "method": "Quasi-experimental with delayed post-test",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through a targeted understanding-and-retention approach and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in conceptual understanding and retention can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Repeated-measures ANOVA (pre, post, delayed); ANCOVA; Cohen’s d effect sizes."
+     },
+     {
+      "n": "11",
+      "title": "Exploring sustained interest and active participation of students in learning astronomy",
+      "desc": "This topic explores what sustains genuine, long-term interest and active participation in astronomy. Longitudinal surveys or learner journals can trace how curiosity grows or fades. The findings help educators keep the spark of wonder alive well beyond a single lesson.",
+      "variables": "Key variables — sustained interest and active participation over time; contributing conditions.",
+      "method": "Longitudinal descriptive",
+      "method_text": "A longitudinal descriptive design fits, tracking learners’ interest and participation in astronomy across a term or year. Repeated surveys and logs, with periodic interviews, show how the pattern grows or fades and what drives the change. Following the same participants over time reveals trajectories a single snapshot would miss.",
+      "stats": "Repeated-measures analysis or growth-curve modelling; trend description with mean/SD; thematic analysis of interviews."
+     },
+     {
+      "n": "12",
+      "title": "Active learning strategies for increasing student participation in astronomy class",
+      "desc": "This research tests active-learning strategies — discussion, modelling, and hands-on tasks — that draw quiet students in. A classroom experiment comparing active and traditional lessons can measure changes in participation. The results offer teachers simple ways to fill the room with voices.",
+      "variables": "Independent — active-learning strategies; Dependent — participation and engagement; Controls — class size, baseline participation.",
+      "method": "Quasi-experimental / action research",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through active-learning strategies and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in class participation can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "13",
+      "title": "Students’ prior knowledge, spatial abilities, and cognitive styles in learning astronomy",
+      "desc": "This topic examines how prior knowledge, spatial reasoning, and cognitive style affect astronomy learning. Spatial-ability tests combined with achievement data can reveal meaningful patterns. The insights help teachers design lessons that support diverse thinkers.",
+      "variables": "Independent — prior knowledge, spatial ability, cognitive style; Dependent — astronomy learning outcomes.",
+      "method": "Descriptive-correlational–predictive",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe prior knowledge, spatial ability, and cognitive style alongside learning and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Correlation; multiple regression; optional cluster analysis of cognitive styles."
+     },
+     {
+      "n": "14",
+      "title": "Ability to apply knowledge to solve complex problems in astronomy",
+      "desc": "This study looks at how well students transfer astronomy knowledge to solve unfamiliar, complex problems. Performance tasks and problem-solving rubrics can capture this deeper competence. The findings show whether learners can truly apply what they know, not just recall it.",
+      "variables": "Independent — knowledge base and problem-solving instruction; Dependent — complex problem-solving/transfer performance.",
+      "method": "Quasi-experimental / performance assessment",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through explicit problem-solving instruction and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in complex problem-solving performance can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Rubric-scored performance; t-test/ANOVA; inter-rater reliability; effect size."
+     },
+     {
+      "n": "15",
+      "title": "Technology and socio-cultural factors in learning astronomy",
+      "desc": "This research investigates how technology and cultural background shape the astronomy learning experience. Mixed-methods surveys and interviews can surface both digital and socio-cultural influences. The work helps ensure teaching feels relevant to every learner's world.",
+      "variables": "Key variables — technology access and use; socio-cultural factors; the astronomy learning experience.",
+      "method": "Convergent mixed-methods",
+      "method_text": "A convergent mixed-methods design suits this topic, gathering quantitative and qualitative data in parallel about how technology and culture shape astronomy learning. Measures or surveys capture the broad pattern while interviews or open responses add depth, and the two strands are merged in interpretation. The combination offsets the limits of either method alone.",
+      "stats": "Descriptive and correlational statistics for the quantitative strand; thematic analysis for the qualitative strand; a joint display to integrate both."
+     },
+     {
+      "n": "16",
+      "title": "Attitudes and motivation towards learning astronomy",
+      "desc": "This topic explores students' attitudes and motivation toward learning astronomy. Validated attitude scales and short interviews can capture how learners feel about the subject. Understanding these feelings helps teachers turn reluctance into enthusiasm.",
+      "variables": "Independent — attitudes and motivation; Dependent — achievement/engagement; Controls — gender, prior exposure.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe attitudes and motivation and their link to achievement and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r (or Spearman rho); multiple regression to rank predictors."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.2",
+  "page": 30,
+  "title": "Innovative Approaches to Astronomy Teaching",
+  "subtitle": "",
+  "intro": "A celebration of fresh, groundbreaking teaching — from hands-on telescopes to artificial intelligence — helping educators spark curiosity and deepen understanding.",
+  "goal": "B",
+  "qcode": "B.1",
+  "question": "What influences the way a teacher presents astronomy in the classroom?",
+  "table": "63",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Teachers’ mathematical knowledge in designing effective astronomy problem sets",
+      "desc": "This topic examines how teachers' own mathematical fluency shapes the astronomy problems they design. Analysing sample problem sets alongside teacher interviews can reveal this connection. The findings guide training that helps teachers craft clear, well-pitched tasks.",
+      "variables": "Independent — teachers’ mathematical knowledge; Dependent — quality of astronomy problem sets designed.",
+      "method": "Descriptive-correlational (with artefact analysis)",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe teachers’ mathematical knowledge and the problem sets they design and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Rubric scores; Pearson r; regression; inter-rater reliability of the rubric."
+     },
+     {
+      "n": "2",
+      "title": "The influence of teachers’ instrumentation and observation skills in teaching hands-on telescope use in the classroom",
+      "desc": "This research studies how a teacher's hands-on skill with telescopes and observation affects classroom teaching. Observations and skills assessments can link instrument competence to student experience. The results make the case for practical, tool-based teacher preparation.",
+      "variables": "Independent — teachers’ instrumentation/observation skills; Dependent — quality of hands-on telescope teaching and student experience.",
+      "method": "Descriptive-correlational with observation",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe teachers’ telescope skills and the quality of their hands-on teaching and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Observation-rubric scores; Pearson r; regression; inter-rater reliability."
+     },
+     {
+      "n": "3",
+      "title": "Ability to connect real-world links of astronomical concepts for more relevant and engaging classroom discussions",
+      "desc": "This topic explores how connecting astronomy to everyday life makes discussions more vivid and relevant. Classroom observation and student feedback can show which real-world links resonate most. The work offers teachers a bank of relatable hooks for abstract ideas.",
+      "variables": "Independent — real-world contextualised teaching; Dependent — perceived relevance and engagement.",
+      "method": "Quasi-experimental / design-based",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through real-world contextualised astronomy lessons and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in relevance and engagement can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "4",
+      "title": "The impact of teachers’ attitudes and motivation to influence students’ learning in astronomy",
+      "desc": "This research investigates how teachers' attitudes and motivation ripple outward to shape student learning. Surveys of both teachers and their students can reveal this quiet influence. The findings underline how a teacher's passion becomes a learner's curiosity.",
+      "variables": "Independent — teacher attitudes and motivation; Dependent — student learning and engagement.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe teacher attitudes and motivation and their students’ learning and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r (or Spearman rho); multiple regression to rank predictors."
+     },
+     {
+      "n": "5",
+      "title": "Student engagement and experiential learning in astronomy education",
+      "desc": "This study examines experiential, learning-by-doing approaches that deepen engagement in astronomy. A design-based classroom study can test activities such as fieldwork and modelling. The results show how active experience turns lessons into lasting memories.",
+      "variables": "Independent — experiential activities (fieldwork, modelling); Dependent — engagement and understanding.",
+      "method": "Design-based research",
+      "method_text": "A design-based research approach fits, developing and testing experiential astronomy activities through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Pretest–posttest gains with t-tests and effect sizes; usability and engagement ratings by mean and SD; qualitative logs coded thematically."
+     },
+     {
+      "n": "6",
+      "title": "Utilization of digital tools and online resources for astronomy education",
+      "desc": "This topic explores how digital tools and online resources enrich astronomy teaching. A review and classroom trial of apps, simulations, and open resources can gauge their value. The findings help teachers choose tools that genuinely add to learning.",
+      "variables": "Independent — digital tools and online resources; Dependent — learning and engagement.",
+      "method": "Design-based research",
+      "method_text": "A design-based research approach fits, developing and testing a suite of digital tools and online resources through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Pretest–posttest gains with t-tests and effect sizes; usability and engagement ratings by mean and SD; qualitative logs coded thematically."
+     },
+     {
+      "n": "7",
+      "title": "Inquiry-based learning in astronomy education",
+      "desc": "This research tests inquiry-based learning, in which students investigate astronomical questions for themselves. A comparison of inquiry and direct instruction can measure gains in understanding and curiosity. The work shows how guided discovery builds independent thinkers.",
+      "variables": "Independent — inquiry-based instruction; Dependent — conceptual understanding and curiosity.",
+      "method": "Quasi-experimental (pretest–posttest control group)",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through inquiry-based learning and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in understanding and curiosity can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "8",
+      "title": "Designing effective instructional materials for astronomy education",
+      "desc": "This topic develops and evaluates instructional materials tailored to astronomy education. A design-and-validation study can create resources, then test them with real classes. The outcome is a set of proven materials teachers can use with confidence.",
+      "variables": "Key variables — material design features; validity, usability, and effectiveness.",
+      "method": "Research-and-development",
+      "method_text": "A research-and-development design is appropriate, moving through analysis, design, development, validation, and revision. The instructional material is drafted from a needs analysis and expert input, tried out with a sample, and refined from the results. Expert validation and pilot testing anchor its quality before wider use.",
+      "stats": "Content-validity index and inter-rater agreement; item analysis (difficulty, discrimination); Cronbach’s alpha or KR-20 for reliability; mean acceptability ratings."
+     },
+     {
+      "n": "9",
+      "title": "Collaborative learning in astronomy education",
+      "desc": "This research examines how collaborative learning shapes understanding and enjoyment of astronomy. Group-based classroom studies can compare cooperative and individual approaches. The findings reveal how learning together lightens and deepens the work.",
+      "variables": "Independent — collaborative learning; Dependent — understanding and enjoyment.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through collaborative learning and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in understanding and enjoyment can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "10",
+      "title": "Innovation-based astronomy learning",
+      "desc": "This topic explores fresh, innovation-driven models for learning astronomy. A carefully documented pilot of a novel approach can chart its promise and pitfalls. The work invites the field to keep reimagining how the sky is taught.",
+      "variables": "Independent — the innovative learning model; Dependent — learning outcomes and engagement.",
+      "method": "Design-based research",
+      "method_text": "A design-based research approach fits, developing and testing an innovation-based learning model through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Pretest–posttest gains with t-tests and effect sizes; usability and engagement ratings by mean and SD; qualitative logs coded thematically."
+     },
+     {
+      "n": "11",
+      "title": "Use of artificial intelligence, virtual reality, and gamification in astronomy classes",
+      "desc": "This research investigates how AI, virtual reality, and gamification transform astronomy classes. A classroom trial can measure engagement and understanding when these tools are introduced. The findings show which technologies genuinely deepen learning and which merely dazzle.",
+      "variables": "Independent — AI, VR, or gamified tools; Dependent — engagement and understanding; Controls — prior tech familiarity.",
+      "method": "Quasi-experimental / design-based",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through AI, virtual-reality, or gamified tools and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in engagement and understanding can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "12",
+      "title": "Exploring astrophotography in engaging students’ understanding of optical astronomy",
+      "desc": "This topic studies how astrophotography helps students grasp optical astronomy. A project-based study can follow learners as they capture and interpret their own images. The results reveal how making pictures of the sky makes its science real.",
+      "variables": "Independent — astrophotography projects; Dependent — understanding of optical astronomy.",
+      "method": "Design-based research / project-based",
+      "method_text": "A design-based research approach fits, developing and testing astrophotography projects through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Pretest–posttest gains with t-tests and effect sizes; usability and engagement ratings by mean and SD; qualitative logs coded thematically."
+     },
+     {
+      "n": "13",
+      "title": "Immersive engagement with the different astronomy and space laboratories",
+      "desc": "This research explores immersive engagement with astronomy and space laboratories. Case studies of lab-based or virtual-lab experiences can capture their impact on learners. The work shows how stepping inside the science sparks deeper involvement.",
+      "variables": "Independent — immersive laboratory experiences; Dependent — engagement and understanding.",
+      "method": "Quasi-experimental / case study",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through immersive astronomy-laboratory experiences and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in engagement and understanding can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "14",
+      "title": "Use of digital simulations and applications in teaching Earth systems and the Sun",
+      "desc": "This topic tests digital simulations for teaching Earth systems and the Sun. A classroom experiment can compare simulation-based and conventional lessons. The findings show how interactive models make invisible processes visible.",
+      "variables": "Independent — digital simulations; Dependent — understanding of Earth systems and the Sun.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through digital simulations of Earth systems and the Sun and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in conceptual understanding can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "15",
+      "title": "Exploring the role of astronomy simulations in students’ engagement and understanding of the galaxy and the universe",
+      "desc": "This research examines how astronomy simulations shape students' understanding of the galaxy and universe. A pre- and post-test study around a simulation activity can measure conceptual gains. The results reveal how virtual journeys through space build real understanding.",
+      "variables": "Independent — astronomy simulations; Dependent — conceptual understanding of the galaxy and universe.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through galaxy-and-universe simulations and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in conceptual understanding can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.3",
+  "page": 45,
+  "title": "Facilitating Learning for Astronomy Education",
+  "subtitle": "",
+  "intro": "An invitation to inclusive classrooms — where diversity, differentiated instruction, and multimodal learning make room for every kind of learner.",
+  "goal": "B",
+  "qcode": "B.2",
+  "question": "What pedagogical approaches can educators employ to promote inclusivity and student-centered learning?",
+  "table": "64",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Implementing inclusivity strategies for effective astronomy education in the classroom",
+      "desc": "This topic explores concrete strategies that make astronomy classrooms welcoming to every learner. Action research can trial inclusive practices and gather teacher and student reflections. The findings offer a practical toolkit for genuinely inclusive teaching.",
+      "variables": "Independent — inclusivity strategies; Dependent — participation and learning across diverse learners.",
+      "method": "Action research",
+      "method_text": "An action-research design fits, with the teacher-researcher introducing classroom inclusivity strategies and studying its effects through cycles of plan, act, observe, and reflect. Observations, learner work, and reflective notes are gathered each cycle to guide refinement. The approach improves practice while producing grounded, shareable insight.",
+      "stats": "Observation tallies and rubric scores compared across cycles; pretest–posttest gains with t-tests; thematic analysis of reflective data."
+     },
+     {
+      "n": "2",
+      "title": "Effectiveness of astronomy resources to promote inclusivity and accessibility",
+      "desc": "This research studies how well existing astronomy resources support inclusivity and accessibility. An audit of materials paired with learner feedback can reveal gaps and strengths. The results guide the design of resources that leave no one behind.",
+      "variables": "Key variables — resource accessibility features; inclusivity and accessibility outcomes.",
+      "method": "Evaluation with resource audit",
+      "method_text": "A program-evaluation design is appropriate for judging the value of existing astronomy resources for inclusivity and accessibility. Using an inputs–process– outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Accessibility-rubric scores; descriptive indices; chi-square; thematic analysis of user feedback."
+     },
+     {
+      "n": "3",
+      "title": "Investigating student-centered pedagogical approaches in astronomy education",
+      "desc": "This topic investigates student-centred pedagogies that put learners at the heart of astronomy lessons. Classroom studies can compare student-led and teacher-led approaches. The findings show how shifting agency to learners deepens ownership and understanding.",
+      "variables": "Independent — student-centred pedagogy; Dependent — ownership and understanding.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through student-centred pedagogy and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in ownership and understanding can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "4",
+      "title": "Investigating the roles of informal astronomy education in supplementing formal astronomy learnings",
+      "desc": "This research examines how informal astronomy — clubs, camps, and outreach — complements formal schooling. Surveys and case studies can trace what learners gain outside the classroom. The work reveals how informal experiences enrich and reinforce formal learning.",
+      "variables": "Independent — informal astronomy participation; Dependent — formal-learning gains.",
+      "method": "Mixed-methods correlational",
+      "method_text": "A convergent mixed-methods design suits this topic, gathering quantitative and qualitative data in parallel about how informal astronomy complements formal learning. Measures or surveys capture the broad pattern while interviews or open responses add depth, and the two strands are merged in interpretation. The combination offsets the limits of either method alone.",
+      "stats": "Correlation and t-tests on learning gains; thematic analysis; joint display."
+     },
+     {
+      "n": "5",
+      "title": "Impact of metacognitive practices and strategies on promoting inclusive astronomy",
+      "desc": "This study looks at how metacognitive strategies — planning, monitoring, and reflecting — support inclusive astronomy learning. An intervention teaching these habits can measure changes in understanding. The findings show how thinking about thinking helps every learner grow.",
+      "variables": "Independent — metacognitive-strategy instruction; Dependent — understanding and self-regulation.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through metacognitive-strategy instruction and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in understanding and self-regulation can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "6",
+      "title": "Using differentiated instruction in astronomy education",
+      "desc": "This topic explores differentiated instruction that adapts astronomy lessons to varied needs. A classroom study can test tiered tasks and flexible grouping. The results reveal how meeting learners where they are lifts the whole class.",
+      "variables": "Independent — differentiated instruction; Dependent — achievement across ability levels.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through differentiated instruction and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in achievement across levels can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "7",
+      "title": "Self-regulated learning and deeper understanding in astronomy education",
+      "desc": "This research investigates self-regulated learning and its link to deeper astronomy understanding. Learning journals and self-regulation scales can capture how learners guide themselves. The findings show how independent learners reach richer understanding.",
+      "variables": "Independent — self-regulated learning; Dependent — depth of understanding.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe self-regulated learning and depth of understanding and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r (or Spearman rho); multiple regression to rank predictors."
+     },
+     {
+      "n": "8",
+      "title": "Multimodal learning approaches in learning astronomy",
+      "desc": "This topic studies multimodal approaches — visual, verbal, and physical — for learning astronomy. A comparative classroom study can test lessons that blend several modes. The results reveal how varied pathways welcome varied learners.",
+      "variables": "Independent — multimodal instruction; Dependent — learning across learner types.",
+      "method": "Quasi-experimental",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through multimodal instruction and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in learning outcomes can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "9",
+      "title": "Teachers’ role in facilitating astronomy class discussions",
+      "desc": "This research examines the teacher's role in guiding rich astronomy class discussions. Discourse analysis of recorded lessons can reveal effective facilitation moves. The findings offer teachers practical ways to spark and sustain dialogue.",
+      "variables": "Key variables — teacher facilitation moves; discussion quality and participation.",
+      "method": "Qualitative discourse analysis",
+      "method_text": "A qualitative discourse-analysis design suits this topic, examining how teachers steer astronomy discussions. Lessons are recorded and transcribed, then facilitation moves and student responses are coded systematically. Patterns reveal which moves open up or close down dialogue.",
+      "stats": "Discourse coding with frequencies; participation counts; inter-coder reliability (kappa)."
+     },
+     {
+      "n": "10",
+      "title": "The impact of experiential learning opportunities for teachers",
+      "desc": "This topic explores how experiential learning opportunities strengthen teachers themselves. Case studies of workshops, fieldwork, or observing sessions can capture their impact. The results show how hands-on experience renews and empowers educators.",
+      "variables": "Independent — experiential professional development; Dependent — teacher confidence and competence.",
+      "method": "Program evaluation / case study",
+      "method_text": "A program-evaluation design is appropriate for judging the value of experiential learning opportunities for teachers. Using an inputs–process–outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Pretest–posttest comparison with t-tests and effect sizes; descriptive indicators of reach and satisfaction; thematic analysis of open feedback."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.4",
+  "page": 54,
+  "title": "Facilitating Astronomy Learning through the Curriculum",
+  "subtitle": "",
+  "intro": "Building a curriculum that is both globally competitive and proudly Filipino — aligned to world standards while honouring our own cultural and historical skies.",
+  "goal": "B",
+  "qcode": "B.3",
+  "question": "How does the curriculum facilitate the attainment of astronomy learning objectives?",
+  "table": "65",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Integration of astronomy across grade levels and subject areas",
+      "desc": "This topic studies how astronomy can be woven across grade levels and different subjects. Curriculum mapping and teacher interviews can reveal natural points of integration. The findings offer a blueprint for teaching astronomy as a connected, spiralling thread.",
+      "variables": "Key variables — integration points across grades and subjects; curricular coherence.",
+      "method": "Curriculum mapping (document analysis)",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as curriculum guides and learning standards across grade levels. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content and thematic analysis with category frequencies; a validated coding rubric with inter-coder reliability (Cohen’s kappa)."
+     },
+     {
+      "n": "2",
+      "title": "Curriculum development in astronomy education",
+      "desc": "This research develops and refines curriculum content for astronomy education. A design-based study can draft, trial, and improve curriculum units. The outcome is a coherent, classroom-ready astronomy curriculum.",
+      "variables": "Key variables — curriculum design elements; validity, coherence, and usability.",
+      "method": "Research-and-development",
+      "method_text": "A research-and-development design is appropriate, moving through analysis, design, development, validation, and revision. The astronomy curriculum is drafted from a needs analysis and expert input, tried out with a sample, and refined from the results. Expert validation and pilot testing anchor its quality before wider use.",
+      "stats": "Content-validity index and inter-rater agreement; item analysis (difficulty, discrimination); Cronbach’s alpha or KR-20 for reliability; mean acceptability ratings."
+     },
+     {
+      "n": "3",
+      "title": "Alignment of astronomy curriculum with national and international standards",
+      "desc": "This topic examines how the astronomy curriculum aligns with national and international standards. A document analysis can compare local content against recognised benchmarks. The findings help ensure Filipino learners meet globally competitive expectations.",
+      "variables": "Key variables — local curriculum content; national and international benchmarks; alignment gaps.",
+      "method": "Document analysis (alignment study)",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as the local astronomy curriculum and national and international standards. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Alignment-matrix mapping; content analysis with category frequencies; inter-coder reliability."
+     },
+     {
+      "n": "4",
+      "title": "Observing the role of Philippine cultural, historical, archeoastronomy, and ethnoastronomy",
+      "desc": "This research explores the place of Philippine cultural, historical, archeoastronomy, and ethnoastronomy in the curriculum. Archival research and community interviews can gather this rich heritage. The work helps root astronomy learning in the nation's own skies and stories.",
+      "variables": "Key variables — cultural, historical, archeoastronomy, and ethnoastronomy content; curricular fit.",
+      "method": "Document analysis with ethnographic input",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as curricula and cultural/ethnoastronomical sources. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content and thematic analysis; a documented heritage inventory; inter-coder reliability."
+     },
+     {
+      "n": "5",
+      "title": "Assessing essential tools and equipment requirements for effective astronomy instruction in school classrooms",
+      "desc": "This study assesses the tools and equipment schools truly need for effective astronomy instruction. A needs analysis across classrooms can document what is available and what is missing. The findings guide fair, practical investment in astronomy resources.",
+      "variables": "Key variables — available versus required tools and equipment; instructional needs.",
+      "method": "Descriptive survey (needs analysis)",
+      "method_text": "A descriptive survey design is appropriate for mapping the current picture. An expert-validated questionnaire is administered to a representative, stratified sample of schools and astronomy teachers, and responses are summarised to portray prevailing conditions. Stratification ensures different groups are fairly represented and comparable.",
+      "stats": "Frequencies and weighted means; gap analysis (available vs. required); ranking of needs."
+     },
+     {
+      "n": "6",
+      "title": "Examining telescopes and technology applications in the classroom",
+      "desc": "This topic studies how telescopes and classroom technology can be used well in teaching. Pilot lessons with different tools can reveal what supports learning best. The results give teachers realistic guidance on bringing instruments into the room.",
+      "variables": "Independent — telescope and classroom technology use; Dependent — learning and engagement.",
+      "method": "Quasi-experimental / design-based",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through telescopes and classroom technology and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in learning and engagement can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.5",
+  "page": 60,
+  "title": "Essential Assessment Methods for Astronomy Education",
+  "subtitle": "",
+  "intro": "Thoughtful ways to measure what matters — developing and adapting assessments that reveal genuine understanding of the cosmos.",
+  "goal": "B",
+  "qcode": "B.4",
+  "question": "What are the assessments to be carried out and employed within the context of astronomy education?",
+  "table": "66",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Development of assessments and evaluations for astronomy education",
+      "desc": "This topic designs assessments and evaluations suited to the goals of astronomy education. A development study can create instruments, then check their validity and reliability. The outcome is a trustworthy set of tools for measuring astronomy learning.",
+      "variables": "Key variables — assessment design; validity and reliability; alignment to objectives.",
+      "method": "Research-and-development (instrument development)",
+      "method_text": "A research-and-development design is appropriate, moving through analysis, design, development, validation, and revision. The astronomy assessment is drafted from a needs analysis and expert input, tried out with a sample, and refined from the results. Expert validation and pilot testing anchor its quality before wider use.",
+      "stats": "Content-validity index and inter-rater agreement; item analysis (difficulty, discrimination); Cronbach’s alpha or KR-20 for reliability; mean acceptability ratings."
+     },
+     {
+      "n": "2",
+      "title": "Evaluation of existing assessment practices and strategies in astronomy education",
+      "desc": "This research examines how astronomy is currently assessed and how well those methods work. A review of existing practices, with teacher input, can reveal strengths and gaps. The findings point toward assessment that is fairer and more meaningful.",
+      "variables": "Key variables — current assessment practices; their strengths and gaps.",
+      "method": "Evaluation / document analysis",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as current astronomy assessments and assessment guidelines. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content analysis; descriptive review; psychometric appraisal of existing instruments."
+     },
+     {
+      "n": "3",
+      "title": "Application and development of standardized astronomy assessment tests aligned to the country’s astronomy culture — the Astronomy Diagnostic Test (ADT), Star Properties Concept Inventory (SPCI), Test of Astronomy Standards (TOAST), Lunar Phase Concept Inventory (LPCI), and Cosmology Concept Inventory (CCI)",
+      "desc": "This topic adapts or develops standardised astronomy tests — such as the ADT, SPCI, TOAST, LPCI, and CCI — for the Philippine context. A translation-and-validation study can ensure they fit local learners and culture. The result is a bank of reliable, locally grounded diagnostic tools.",
+      "variables": "Key variables — test items; validity and reliability in the local context; cultural fit.",
+      "method": "Research-and-development (translation and validation)",
+      "method_text": "A research-and-development design is appropriate, moving through analysis, design, development, validation, and revision. The standardised astronomy test adapted for local use (ADT, SPCI, TOAST, LPCI, CCI) is drafted from a needs analysis and expert input, tried out with a sample, and refined from the results. Expert validation and pilot testing anchor its quality before wider use.",
+      "stats": "Item analysis (difficulty, discrimination); differential item functioning; Cronbach’s alpha or KR-20; content-validity index."
+     },
+     {
+      "n": "4",
+      "title": "Assessment strategies for conceptual understanding in astronomy",
+      "desc": "This research explores assessment strategies that reveal genuine conceptual understanding, not mere recall. Trials of concept-focused tasks and rubrics can test what they uncover. The findings help teachers see how deeply students truly understand the cosmos.",
+      "variables": "Independent — concept-focused assessment strategy; Dependent — conceptual understanding revealed.",
+      "method": "Research-and-development / quasi-experimental",
+      "method_text": "A research-and-development design is appropriate, moving through analysis, design, development, validation, and revision. The concept-focused assessment strategy is drafted from a needs analysis and expert input, tried out with a sample, and refined from the results. Expert validation and pilot testing anchor its quality before wider use.",
+      "stats": "Item analysis; reliability estimates; correlation with achievement; effect size where compared."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.6",
+  "page": 65,
+  "title": "Teacher Training and Professional Development in Astronomy Education",
+  "subtitle": "",
+  "intro": "Investing in the heart of every classroom — the teacher — through training, mentoring, data science, and hands-on work with real astronomical tools.",
+  "goal": "B",
+  "qcode": "B.5",
+  "question": "What professional development activities are needed to enhance the capabilities of educators to deliver high-caliber instruction in astronomy education?",
+  "table": "67",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Teacher training and professional development in astronomy",
+      "desc": "This topic studies how training and professional development strengthen astronomy teaching. A programme evaluation can measure changes in teacher knowledge and confidence. The findings show which forms of development deliver lasting classroom gains.",
+      "variables": "Independent — the professional-development programme; Dependent — teacher knowledge, confidence, and practice.",
+      "method": "Program evaluation",
+      "method_text": "A program-evaluation design is appropriate for judging the value of an astronomy professional-development programme. Using an inputs–process–outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Pretest–posttest comparison with t-tests and effect sizes; descriptive indicators of reach and satisfaction; thematic analysis of open feedback."
+     },
+     {
+      "n": "2",
+      "title": "Training, support, and mentoring programs for pre-service science teachers in the field of astronomy",
+      "desc": "This research explores training, support, and mentoring for pre-service science teachers in astronomy. Following student-teachers through a mentoring programme can capture its effects. The results reveal how early support shapes confident future educators.",
+      "variables": "Independent — mentoring programme; Dependent — pre-service teacher competence and confidence.",
+      "method": "Program evaluation / case study",
+      "method_text": "A program-evaluation design is appropriate for judging the value of a mentoring programme for pre-service science teachers. Using an inputs–process–outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Pretest–posttest comparison with t-tests and effect sizes; descriptive indicators of reach and satisfaction; thematic analysis of open feedback."
+     },
+     {
+      "n": "3",
+      "title": "Integrating astronomy research and data science into teacher training and development",
+      "desc": "This topic investigates weaving astronomy research and data science into teacher training. A pilot module can be designed, delivered, and evaluated with trainee teachers. The findings show how research skills enrich and modernise teaching.",
+      "variables": "Independent — research-and-data-science training module; Dependent — teacher research and data skills.",
+      "method": "Design-based research / evaluation",
+      "method_text": "A design-based research approach fits, developing and testing a research-and-data-science training module for teachers through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Pretest–posttest skills t-tests; rubric scores; effect size; thematic analysis of reflections."
+     },
+     {
+      "n": "4",
+      "title": "Investigating the use of space applications in teacher training",
+      "desc": "This research studies the use of space applications — imagery, apps, and data — in teacher training. A trial integrating these tools can measure their effect on teacher readiness. The results reveal how real space resources bring training to life.",
+      "variables": "Independent — space-application tools in training; Dependent — teacher readiness.",
+      "method": "Quasi-experimental / evaluation",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through space-application tools in teacher training and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in teacher readiness can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Paired and independent-samples t-tests; ANCOVA controlling pretest scores; Cohen’s d for effect size; normality and homogeneity checks first."
+     },
+     {
+      "n": "5",
+      "title": "Teacher training on astronomical equipment and instruments",
+      "desc": "This topic examines training that builds teachers' skill with astronomical equipment and instruments. Hands-on workshops with before-and-after skills checks can gauge their impact. The findings support practical, instrument-focused professional development.",
+      "variables": "Independent — astronomical-equipment training; Dependent — teacher instrument skills.",
+      "method": "Quasi-experimental (skills-based)",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through hands-on astronomical-equipment training and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in instrument-handling skill can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Pretest–posttest skills checks with t-tests; performance rubrics; effect size."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.7",
+  "page": 71,
+  "title": "Advanced Research Topics for Astronomy Education and Research Programs",
+  "subtitle": "",
+  "intro": "Reaching for the frontier — priority advanced programs designed to make Philippine astronomy globally competitive, from exoplanets to dark matter to space technology.",
+  "goal": "B",
+  "qcode": "B.6",
+  "question": "What are the priority advanced programs for faculty and student research engagement?",
+  "table": "68",
+  "groups": [
+   {
+    "name": "Astrobiology and Exoplanets",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Exoplanetary atmosphere",
+      "desc": "This topic investigates the atmospheres of planets beyond the solar system and what they reveal about distant worlds. Analysis of spectroscopic data can identify atmospheric composition and conditions. Such work places student and faculty research at the frontier of exoplanet science.",
+      "variables": "Key variables — atmospheric composition and temperature; planetary and stellar parameters; transit depth versus wavelength.",
+      "method": "Observational spectroscopy with atmospheric retrieval",
+      "method_text": "This is an observational–analytical study using transmission or emission spectroscopy of transiting exoplanets. Archival or new spectra are reduced and fitted with radiative-transfer models to infer atmospheric composition and structure. Careful treatment of noise and stellar activity is essential for believable retrievals.",
+      "stats": "Bayesian atmospheric retrieval (MCMC / nested sampling); chi-square goodness-of-fit; posterior credible intervals; Bayesian evidence for model comparison."
+     },
+     {
+      "n": "2",
+      "title": "Habitability in binary star systems",
+      "desc": "This research explores whether planets in binary star systems could support life. Modelling orbital stability and stellar radiation can map habitable zones. The study invites researchers into one of astrobiology's most intriguing questions.",
+      "variables": "Key variables — stellar masses and separations; orbital parameters; insolation; habitable-zone boundaries.",
+      "method": "Computational modelling / simulation",
+      "method_text": "This is a computational modelling study of planetary orbits and radiation in binary systems. N-body integrations test orbital stability while climate and insolation models map habitable zones. Large parameter sweeps identify which configurations could sustain life.",
+      "stats": "Numerical simulation with stability statistics; parameter-space sampling; Monte Carlo uncertainty propagation."
+     },
+     {
+      "n": "3",
+      "title": "Biosignatures in exoplanet spectra",
+      "desc": "This topic searches exoplanet spectra for biosignatures — chemical hints of possible life. Careful analysis of transmission spectra can flag telling molecules. The work connects local research to the global quest for life beyond Earth.",
+      "variables": "Key variables — spectral features and molecular abundances; false-positive indicators; signal-to-noise.",
+      "method": "Spectral analysis / detection modelling",
+      "method_text": "This analytical study models and searches for biosignature gases in exoplanet spectra. Synthetic spectra set detectability thresholds, and observed spectra are screened for telling features while ruling out abiotic mimics. Rigorous noise modelling underpins any claim.",
+      "stats": "Signal-to-noise and detection-significance tests; Bayesian model comparison; false-positive probability estimation."
+     },
+     {
+      "n": "4",
+      "title": "Biology in extreme environments",
+      "desc": "This research studies how life endures in extreme environments as a guide to life elsewhere. Reviewing extremophile biology alongside planetary conditions can draw useful parallels. The findings inform where and how to look for cosmic life.",
+      "variables": "Key variables — environmental extremes (temperature, radiation, salinity); organism survival limits; planetary analogues.",
+      "method": "Systematic literature synthesis / analogue review",
+      "method_text": "This is a systematic review and analogue-mapping study linking extremophile biology to planetary conditions. Documented survival limits are compiled and matched to environments on other worlds. The synthesis frames where life could plausibly persist.",
+      "stats": "Systematic-review synthesis; descriptive tabulation of tolerance ranges; qualitative cross-mapping."
+     },
+     {
+      "n": "5",
+      "title": "Exoplanet surveys and detection techniques",
+      "desc": "This topic examines the methods used to discover and confirm exoplanets. A comparative study of transit, radial-velocity, and imaging techniques can weigh their strengths. The work builds local capacity in planet-hunting methods.",
+      "variables": "Key variables — detection method; planet radius, mass, and period; survey completeness and false-positive rate.",
+      "method": "Comparative methodological analysis",
+      "method_text": "This study compares exoplanet-detection techniques — transit, radial velocity, and imaging — on sensitivity and bias. Method performance is assessed against known-planet catalogues and simulated injections. The comparison guides method choice for local capacity-building.",
+      "stats": "Detection-efficiency and completeness statistics; false-positive rates; ROC-style sensitivity comparison."
+     },
+     {
+      "n": "6",
+      "title": "Search for extraterrestrial life",
+      "desc": "This research contributes to the scientific search for extraterrestrial life. Reviewing detection strategies and analysing available survey data can advance the effort. The topic offers an inspiring frontier for ambitious young researchers.",
+      "variables": "Key variables — candidate signals; observational parameters; background and false-alarm rate.",
+      "method": "Observational data analysis / signal search",
+      "method_text": "This is an observational data-analysis study screening survey data for candidate signals of life or technosignatures. Pipelines flag anomalies, which are then vetted against instrumental and natural explanations. Statistical control of false alarms is central.",
+      "stats": "Signal-detection statistics; false-alarm-rate control; significance testing against noise models."
+     }
+    ]
+   },
+   {
+    "name": "Star Formation and the Interstellar Medium",
+    "topics": [
+     {
+      "n": "7",
+      "title": "Magnetic fields and star formation",
+      "desc": "This topic studies how magnetic fields influence the birth of stars. Analysis of observational data or simulations can reveal their role in collapsing clouds. The work deepens understanding of one of astrophysics' central processes.",
+      "variables": "Key variables — magnetic-field strength and orientation; cloud density; star-formation rate and efficiency.",
+      "method": "Observational analysis / MHD simulation",
+      "method_text": "This study links magnetic fields to star formation using polarisation observations and/or magnetohydrodynamic simulations. Field geometry is mapped and compared with collapse and fragmentation outcomes. Simulations test causal roles that observations alone cannot isolate.",
+      "stats": "Correlation of field strength with star-formation rate; Chandrasekhar–Fermi polarisation-angle dispersion; simulation comparison statistics."
+     },
+     {
+      "n": "8",
+      "title": "Stellar group characteristics",
+      "desc": "This research examines the properties of stellar groups and clusters. Photometric and spectroscopic data can characterise their age, motion, and composition. The findings illuminate how stars form and evolve together.",
+      "variables": "Key variables — age, metallicity, kinematics, membership; cluster mass function.",
+      "method": "Photometric and spectroscopic survey analysis",
+      "method_text": "This observational study characterises stellar groups from photometric and spectroscopic data. Colour–magnitude diagrams and spectra yield age, composition, and membership, while kinematics confirm which stars truly belong together. Careful field-star decontamination is required.",
+      "stats": "Isochrone fitting; membership probability via mixture models; descriptive distributions; clustering methods."
+     },
+     {
+      "n": "9",
+      "title": "Molecular cloud dynamics and structure",
+      "desc": "This topic investigates the dynamics and structure of molecular clouds. Radio and infrared data, or numerical models, can trace their motion and shape. The study sheds light on the cradles where stars are made.",
+      "variables": "Key variables — cloud density, velocity, turbulence, and structure; mass distribution.",
+      "method": "Radio/IR observational analysis or simulation",
+      "method_text": "This study probes molecular-cloud dynamics using radio and infrared spectral-line data or numerical models. Velocity fields and density structure are mapped to characterise turbulence and collapse. Simulations help interpret the observed structure.",
+      "stats": "Velocity-dispersion and structure-function analysis; spatial power spectra; statistical comparison with simulations."
+     },
+     {
+      "n": "10",
+      "title": "Interstellar chemistry",
+      "desc": "This research explores the chemistry of the interstellar medium between the stars. Spectral analysis can identify molecules and reaction pathways in space. The work links astronomy with chemistry at cosmic scales.",
+      "variables": "Key variables — molecular species and abundances; physical conditions (temperature, density); reaction rates.",
+      "method": "Spectroscopic analysis / chemical modelling",
+      "method_text": "This analytical study identifies interstellar molecules and models their formation. Spectral surveys yield abundances that chemical-network models attempt to reproduce. Agreement tests our understanding of cosmic chemistry.",
+      "stats": "Abundance estimation with error propagation; chi-square model–data comparison; sensitivity analysis of rate coefficients."
+     }
+    ]
+   },
+   {
+    "name": "Dark Matter, Dark Energy, and Black Holes",
+    "topics": [
+     {
+      "n": "11",
+      "title": "Dark matter distribution in galaxies",
+      "desc": "This topic maps how dark matter is distributed within galaxies. Rotation curves and gravitational-lensing data can trace its unseen presence. The research probes one of the universe's deepest mysteries.",
+      "variables": "Key variables — rotation velocity versus radius; lensing deflection; inferred mass profile.",
+      "method": "Observational analysis / mass modelling",
+      "method_text": "This observational study infers dark-matter distribution from galaxy rotation curves and gravitational lensing. Kinematic and lensing data are fitted with mass models that separate luminous and dark components. Systematic effects are carefully controlled.",
+      "stats": "Rotation-curve and mass-profile fitting; Bayesian parameter estimation (MCMC); goodness-of-fit with credible intervals."
+     },
+     {
+      "n": "12",
+      "title": "Dark matter and galaxy formation",
+      "desc": "This research studies the role of dark matter in shaping galaxy formation. Comparing simulations with observed galaxies can test competing models. The findings help explain how cosmic structure came to be.",
+      "variables": "Key variables — dark-matter model parameters; galaxy properties; halo–galaxy relations.",
+      "method": "Cosmological simulation versus observation",
+      "method_text": "This study compares dark-matter-driven galaxy-formation simulations with observed galaxy populations. Simulations under different assumptions generate predictions tested against surveys, and discrepancies constrain the models. Matching selection effects is essential for a fair test.",
+      "stats": "Distribution comparison (Kolmogorov–Smirnov); summary statistics of galaxy properties; likelihood-based model selection."
+     },
+     {
+      "n": "13",
+      "title": "Dwarf galaxies and dark matter",
+      "desc": "This topic examines dwarf galaxies as natural laboratories for dark matter. Their dynamics and mass measurements can reveal dark-matter behaviour. The work targets some of the most dark-matter-dominated systems known.",
+      "variables": "Key variables — stellar velocity dispersion; dynamical mass; mass-to-light ratio.",
+      "method": "Spectroscopic dynamical analysis",
+      "method_text": "This study uses stellar kinematics of dwarf galaxies to weigh their dark matter. Spectroscopy yields velocity dispersions that Jeans modelling converts to mass profiles. Their high dark-matter fractions make dwarfs sensitive probes.",
+      "stats": "Velocity-dispersion estimation; Jeans / mass modelling with MCMC; mass-to-light ratios with uncertainties."
+     },
+     {
+      "n": "14",
+      "title": "Cosmological probes of dark energy",
+      "desc": "This research explores cosmological probes that reveal the nature of dark energy. Analysis of supernovae or large-scale structure data can constrain its properties. The topic engages researchers in mapping the universe's accelerating expansion.",
+      "variables": "Key variables — distance–redshift relation; growth of structure; equation-of-state parameter w.",
+      "method": "Cosmological data analysis",
+      "method_text": "This study constrains dark energy using supernovae, baryon acoustic oscillations, or large-scale structure. Standardised distance and clustering measurements are fitted to cosmological models, and combining probes tightens the constraints. Systematic calibration is carefully handled.",
+      "stats": "Cosmological parameter fitting (MCMC); chi-square / likelihood; Fisher-matrix forecasts; model comparison."
+     },
+     {
+      "n": "15",
+      "title": "Black holes and dark matter",
+      "desc": "This topic investigates the relationship between black holes and dark matter. Theoretical modelling and observational tests can probe their possible links. The study sits at an exciting crossroads of modern astrophysics.",
+      "variables": "Key variables — black-hole mass and abundance; dark-matter density; dynamical signatures.",
+      "method": "Theoretical modelling / observational test",
+      "method_text": "This study explores links between black holes and dark matter through theory and observation. Models predict signatures — for example from primordial black holes — that are tested against lensing, dynamics, or gravitational-wave data. Constraints narrow the allowed parameter space.",
+      "stats": "Constraint mapping in parameter space; likelihood and upper-limit estimation; Bayesian model comparison."
+     },
+     {
+      "n": "16",
+      "title": "Black hole formation and galaxy evolution",
+      "desc": "This research studies how black holes form and shape the evolution of galaxies. Observations of active galactic nuclei and simulations can trace this coupling. The findings reveal how the largest and smallest scales intertwine.",
+      "variables": "Key variables — black-hole mass; host-galaxy properties; accretion and feedback indicators.",
+      "method": "Observational correlation / simulation",
+      "method_text": "This study examines the co-evolution of black holes and galaxies via active-galactic-nucleus observations and simulations. Scaling relations such as M–sigma are measured and compared with model predictions of feedback. The interplay of scales is the focus.",
+      "stats": "Scaling-relation regression with intrinsic scatter; correlation tests; simulation– observation comparison."
+     },
+     {
+      "n": "17",
+      "title": "Cosmic ray and neutrino physics",
+      "desc": "This topic explores cosmic-ray and neutrino physics as messengers from the high-energy universe. Analysis of detector data can trace their sources and behaviour. The work opens a window onto the cosmos's most violent events.",
+      "variables": "Key variables — particle energy, flux, and arrival direction; candidate source associations.",
+      "method": "Detector data analysis",
+      "method_text": "This observational study analyses cosmic-ray or neutrino detector data to trace sources and behaviour. Events are reconstructed and correlated with astrophysical catalogues, with background rejection critical to any association. Large exposures build statistical power.",
+      "stats": "Energy-spectrum fitting; angular cross-correlation; Poisson significance and false-discovery control."
+     },
+     {
+      "n": "18",
+      "title": "Nuclear astrophysics",
+      "desc": "This research examines nuclear astrophysics — how elements are forged in stars. Reviewing reaction networks and stellar models can trace cosmic chemical origins. The study connects the physics of the atom to the life of the stars.",
+      "variables": "Key variables — nuclear reaction rates; stellar conditions; elemental yields and abundances.",
+      "method": "Reaction-network modelling / review",
+      "method_text": "This study models element formation using nuclear reaction networks within stellar models. Reaction rates feed nucleosynthesis calculations whose yields are compared with observed abundances. Sensitivity studies reveal which reactions matter most.",
+      "stats": "Network simulation; sensitivity and uncertainty analysis; chi-square abundance comparison."
+     }
+    ]
+   },
+   {
+    "name": "Astrostatistics and Astroinformatics",
+    "topics": [
+     {
+      "n": "19",
+      "title": "Bayesian methods in astrophysics",
+      "desc": "This topic applies Bayesian methods to draw robust conclusions from astrophysical data. Building and testing Bayesian models can improve inference under uncertainty. The work strengthens the statistical backbone of modern astronomy.",
+      "variables": "Key variables — model parameters; priors; likelihood; observational data.",
+      "method": "Bayesian statistical methodology",
+      "method_text": "This is a methodological study applying and refining Bayesian inference for astrophysical problems. Priors and likelihoods are specified and posteriors sampled to estimate parameters under uncertainty, then validated on simulated and real datasets. Convergence is checked carefully.",
+      "stats": "MCMC / nested sampling; posterior credible intervals; Bayesian evidence for model comparison; convergence diagnostics."
+     },
+     {
+      "n": "20",
+      "title": "Spatial statistics and galaxy distribution",
+      "desc": "This research uses spatial statistics to study how galaxies are distributed across the sky. Analysing survey catalogues can reveal clustering and cosmic structure. The findings turn vast datasets into insight about the universe's web.",
+      "variables": "Key variables — galaxy positions and redshifts; clustering scale; density field.",
+      "method": "Spatial statistical analysis",
+      "method_text": "This study characterises galaxy clustering using spatial statistics on survey catalogues. Correlation functions and density estimators quantify structure across scales, with masking and completeness corrections applied. Careful error estimation is essential.",
+      "stats": "Two-point correlation function; power spectrum; nearest-neighbour and count-in-cells statistics; bootstrap errors."
+     },
+     {
+      "n": "21",
+      "title": "Bayesian model selection in cosmology",
+      "desc": "This topic explores Bayesian model selection to compare competing cosmological theories. Applying these methods to real data can weigh models fairly. The study sharpens how astronomers decide between explanations.",
+      "variables": "Key variables — competing cosmological models; parameters; Bayesian evidence.",
+      "method": "Bayesian model selection",
+      "method_text": "This methodological study compares cosmological models by their Bayesian evidence. Each model’s parameters are fitted to the same data and evidences computed to weigh them, with priors tested for robustness. Posterior predictive checks confirm adequacy.",
+      "stats": "Bayesian evidence and Bayes factors; nested sampling; posterior predictive checks."
+     },
+     {
+      "n": "22",
+      "title": "Variable star time series",
+      "desc": "This research analyses time-series data from variable stars to understand their behaviour. Signal-processing and modelling techniques can extract periods and patterns. The work builds valuable skills in astronomical data analysis.",
+      "variables": "Key variables — brightness versus time; period, amplitude, and phase; variability class.",
+      "method": "Time-series analysis",
+      "method_text": "This study analyses light curves of variable stars to extract periodic behaviour. Signal-processing methods detect periods and shapes, enabling classification, while noise and sampling gaps are handled carefully. Results feed catalogues of variables.",
+      "stats": "Lomb–Scargle periodogram; Fourier analysis; phase folding; classification metrics."
+     },
+     {
+      "n": "23",
+      "title": "Machine learning for exoplanet discovery",
+      "desc": "This topic applies machine learning to discover exoplanets in large datasets. Training and testing classifiers on transit data can automate detection. The topic blends astronomy with cutting-edge data science.",
+      "variables": "Key variables — light-curve features; labels (planet / non-planet); model performance.",
+      "method": "Supervised machine learning",
+      "method_text": "This study trains machine-learning classifiers to flag exoplanet transits in large datasets. Labelled light curves train and validate models, with features engineered or learned automatically, and cross-validation guards against over-fitting. Interpretability is checked before use.",
+      "stats": "Train/validation/test splits; precision, recall, F1, and ROC-AUC; confusion matrices; cross-validation."
+     },
+     {
+      "n": "24",
+      "title": "Big data analytics in radio astronomy",
+      "desc": "This research uses big-data analytics to handle the flood of radio-astronomy observations. Scalable pipelines and algorithms can mine these enormous datasets. The work prepares researchers for the era of data-driven astronomy.",
+      "variables": "Key variables — data volume and velocity; detected sources; pipeline performance.",
+      "method": "Big-data analytics pipeline",
+      "method_text": "This study designs scalable pipelines to mine massive radio-astronomy datasets. Distributed processing and algorithms extract and catalogue sources from raw streams, and efficiency and completeness are benchmarked. Reproducibility is built in.",
+      "stats": "Detection completeness and purity; throughput benchmarking; anomaly-detection metrics."
+     },
+     {
+      "n": "25",
+      "title": "Machine learning methods for clustering and age determination",
+      "desc": "This topic develops machine-learning methods for clustering objects and estimating ages. Testing algorithms on stellar or galactic data can reveal hidden groupings. The findings advance efficient, intelligent analysis of the sky.",
+      "variables": "Key variables — stellar or galactic features; cluster membership; inferred age.",
+      "method": "Unsupervised and supervised machine learning",
+      "method_text": "This study applies machine learning to group objects and estimate ages from their features. Clustering finds natural groupings while regression predicts ages from calibrated data, validated against known samples. Feature selection shapes reliability.",
+      "stats": "Clustering (k-means / Gaussian mixtures) with silhouette scores; regression error (RMSE / MAE); cross-validation."
+     }
+    ]
+   },
+   {
+    "name": "Space Science and Satellite Technology",
+    "topics": [
+     {
+      "n": "26",
+      "title": "Space weather",
+      "desc": "This topic studies space weather and its effects on Earth and technology. Analysing solar and geomagnetic data can improve forecasting. The work links astronomy directly to societal resilience.",
+      "variables": "Key variables — solar-activity indices; geomagnetic indices; terrestrial impact metrics.",
+      "method": "Observational data analysis / forecasting",
+      "method_text": "This study analyses solar and geomagnetic data to characterise and forecast space weather. Time-series of activity indices are related to terrestrial impacts, and predictive models are tested on held-out events. Forecast skill is quantified honestly.",
+      "stats": "Time-series and correlation analysis; forecast-skill scores; regression or machine-learning prediction with error metrics."
+     },
+     {
+      "n": "27",
+      "title": "Total electron content and ionospheric research",
+      "desc": "This research investigates total electron content and the ionosphere. GNSS and radio data can reveal ionospheric behaviour and disturbances. The findings support navigation, communication, and disaster preparedness.",
+      "variables": "Key variables — total electron content; solar and geomagnetic drivers; location and time.",
+      "method": "GNSS-based observational analysis",
+      "method_text": "This study derives total electron content from GNSS and radio data to study the ionosphere. Spatio-temporal TEC maps are related to solar and geomagnetic drivers, and disturbances relevant to navigation are characterised. Careful calibration ensures accuracy.",
+      "stats": "Time-series analysis; spatial interpolation and mapping; correlation with drivers; anomaly detection."
+     },
+     {
+      "n": "28",
+      "title": "Space physics",
+      "desc": "This topic explores space physics — the plasmas and fields that fill the cosmic neighbourhood. Analysis of satellite measurements can chart these dynamics. The study connects fundamental physics to the space environment.",
+      "variables": "Key variables — plasma density and temperature; magnetic and electric fields; particle flux.",
+      "method": "Satellite data analysis / modelling",
+      "method_text": "This study analyses in-situ satellite measurements to characterise space-plasma dynamics. Field and particle data are processed to reveal structures and processes, with models aiding interpretation. Event studies build statistical patterns.",
+      "stats": "Spectral and correlation analysis; distribution fitting; statistical superposed-epoch event studies."
+     },
+     {
+      "n": "29",
+      "title": "Earth observation",
+      "desc": "This research uses Earth-observation data to monitor a changing planet. Satellite imagery and remote sensing can track environmental patterns. The work shows how looking down complements looking up.",
+      "variables": "Key variables — remote-sensing indices; environmental variables; change over time.",
+      "method": "Remote-sensing analysis",
+      "method_text": "This study uses satellite Earth-observation data to monitor environmental patterns. Imagery is processed into indices and tracked over time or classified into land types, with ground truth validating the results. Cloud and atmospheric correction are applied.",
+      "stats": "Image-classification accuracy (confusion matrix, kappa); change-detection statistics; time-series trend tests."
+     },
+     {
+      "n": "30",
+      "title": "Climate change",
+      "desc": "This topic studies climate change through an astronomical and space-science lens. Combining solar, atmospheric, and observational data can inform the picture. The topic ties the cosmos to one of humanity's most urgent challenges.",
+      "variables": "Key variables — solar, atmospheric, and observational indicators; climate variables; long-term trends.",
+      "method": "Data-analytic / modelling study",
+      "method_text": "This study examines climate through combined solar, atmospheric, and observational data. Long records are analysed for trends and drivers, and models test contributions, with uncertainty quantified throughout. Multiple datasets are cross-checked.",
+      "stats": "Trend analysis (Mann–Kendall); correlation and regression; time-series decomposition; uncertainty quantification."
+     },
+     {
+      "n": "31",
+      "title": "Astronomy instrumentation",
+      "desc": "This research advances astronomy instrumentation — the tools that make observation possible. Designing, building, or testing instruments can push capability forward. The work grows local expertise in the hardware of discovery.",
+      "variables": "Key variables — instrument design parameters; performance metrics (sensitivity, resolution).",
+      "method": "Engineering design and testing (R&D)",
+      "method_text": "This is an instrumentation R&D study designing, building, and testing astronomical hardware. Prototypes are characterised against performance specifications in the lab and field, and iterative testing refines the design. Calibration underpins every claim.",
+      "stats": "Calibration and error analysis; performance benchmarking against specifications; signal-to-noise characterisation."
+     },
+     {
+      "n": "32",
+      "title": "Miniature satellite development",
+      "desc": "This topic explores the development of miniature satellites such as CubeSats. Prototyping and testing small-satellite systems can build hands-on capacity. The topic offers an accessible route into real space technology.",
+      "variables": "Key variables — subsystem design; mission requirements; performance and reliability.",
+      "method": "Systems engineering / prototyping (R&D)",
+      "method_text": "This is a CubeSat systems-engineering study prototyping and testing small-satellite subsystems. Requirements drive design, integration, and environmental testing, and results feed reliability improvements. Verification is documented at each stage.",
+      "stats": "Requirements-verification testing; reliability metrics; performance benchmarking; failure-mode and effects analysis."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.8",
+  "page": 92,
+  "title": "Astronomy Education Development Support by Astronomy Organizations and Societies",
+  "subtitle": "",
+  "intro": "Honouring the societies, clubs, and organizations whose outreach and citizen-science spirit carry astronomy beyond the classroom and into the community.",
+  "goal": "C",
+  "qcode": "C.1",
+  "question": "How can astronomy organizations and societies best support the development of astronomy education?",
+  "table": "69",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "The role of astronomy organizations in shaping the curriculum in educational standards",
+      "desc": "This topic examines how astronomy organisations help shape curriculum and educational standards. Document analysis and interviews with society leaders can trace their influence. The findings reveal how organised communities strengthen what schools teach.",
+      "variables": "Key variables — organisational involvement; curriculum and standards content; pathways of influence.",
+      "method": "Document analysis with key informants",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as curriculum documents, standards, and organisation records. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content and thematic analysis with category frequencies; a validated coding rubric with inter-coder reliability (Cohen’s kappa)."
+     },
+     {
+      "n": "2",
+      "title": "Investigating the impacts of astronomy societies in fostering student engagement and interest in astronomy",
+      "desc": "This research studies how astronomy societies foster student engagement and interest. Surveys of members and participants can measure their impact on learners. The results show how clubs and societies keep curiosity alive.",
+      "variables": "Independent — society participation; Dependent — student engagement and interest.",
+      "method": "Descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe astronomy-society participation and student engagement and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Means and standard deviations; Pearson r (or Spearman rho); multiple regression to rank predictors."
+     },
+     {
+      "n": "3",
+      "title": "Exploring the effectiveness of outreach programs by astronomy organizations in promoting astronomy education awareness among students",
+      "desc": "This topic evaluates the effectiveness of outreach programmes in raising astronomy awareness among students. Pre- and post-programme surveys can capture changes in interest and knowledge. The findings help organisations refine outreach that truly reaches learners.",
+      "variables": "Independent — outreach-programme exposure; Dependent — astronomy awareness and knowledge.",
+      "method": "Program evaluation",
+      "method_text": "A program-evaluation design is appropriate for judging the value of outreach programmes run by astronomy organisations. Using an inputs–process–outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Pretest–posttest comparison with t-tests and effect sizes; descriptive indicators of reach and satisfaction; thematic analysis of open feedback."
+     },
+     {
+      "n": "4",
+      "title": "Evaluating the influence of astronomy organizations in providing professional development opportunities for educators",
+      "desc": "This research assesses how astronomy organisations support teachers' professional development. Interviews and programme reviews can document the opportunities they offer. The work highlights the community's role in nurturing educators.",
+      "variables": "Key variables — professional-development opportunities provided; educator uptake and benefit.",
+      "method": "Descriptive survey",
+      "method_text": "A descriptive survey design is appropriate for mapping the current picture. An expert-validated questionnaire is administered to a representative, stratified sample of educators served by astronomy organisations, and responses are summarised to portray prevailing conditions. Stratification ensures different groups are fairly represented and comparable.",
+      "stats": "Frequencies, percentages, weighted means, and standard deviations; ranking; chi-square tests for group differences."
+     },
+     {
+      "n": "5",
+      "title": "Assessing the role of astronomy organizations in providing resources and support for hands-on activities for the public",
+      "desc": "This topic studies how organisations provide resources and hands-on activities for the public. Case studies of events and lending programmes can reveal their reach. The findings show how organised support brings astronomy into everyday hands.",
+      "variables": "Key variables — resources and hands-on activities provided; public participation and reach.",
+      "method": "Case study",
+      "method_text": "A case-study design fits because it examines astronomy organisations’ public resource-and-activity programmes in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis and pattern matching; descriptive summaries of reach or participation where records allow."
+     },
+     {
+      "n": "6",
+      "title": "The role of astronomy organizations in promoting diversity and inclusivity in astronomy education",
+      "desc": "This research examines how astronomy organisations promote diversity and inclusivity in education. Analysis of their programmes and participants can reveal who is being reached. The findings guide efforts to make astronomy welcoming to all.",
+      "variables": "Key variables — inclusivity initiatives; participant diversity; access.",
+      "method": "Descriptive survey with document review",
+      "method_text": "A descriptive survey design is appropriate for mapping the current picture. An expert-validated questionnaire is administered to a representative, stratified sample of organisation programmes and their participants, and responses are summarised to portray prevailing conditions. Stratification ensures different groups are fairly represented and comparable.",
+      "stats": "Frequencies and diversity indices; chi-square tests; thematic analysis of initiatives."
+     },
+     {
+      "n": "7",
+      "title": "Investigating the collaboration between astronomy organizations in promoting and enhancing astronomy learning experiences for students",
+      "desc": "This topic investigates collaboration among astronomy organisations to enrich student learning. Network analysis and case studies can map how partnerships work. The results reveal how working together multiplies impact.",
+      "variables": "Key variables — partnership structures; joint activities; learning outcomes.",
+      "method": "Case study / social-network analysis",
+      "method_text": "A case-study design augmented by social-network analysis fits, mapping how astronomy organisations collaborate. Interviews and records reveal partnership structures while network methods quantify their connections. Triangulation strengthens the account.",
+      "stats": "Network metrics (centrality, density); cross-case thematic analysis."
+     },
+     {
+      "n": "8",
+      "title": "Exploring the impact of astronomy organizations in promoting citizen science to the community",
+      "desc": "This research explores how organisations promote citizen science within communities. Case studies of citizen-science projects can capture participation and outcomes. The work shows how ordinary people become genuine contributors to discovery.",
+      "variables": "Independent — citizen-science participation; Dependent — learning, contribution, and engagement.",
+      "method": "Program evaluation / case study",
+      "method_text": "A program-evaluation design is appropriate for judging the value of citizen-science projects promoted by organisations. Using an inputs–process–outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Descriptive participation metrics; pretest–posttest knowledge t-tests; thematic analysis."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.9",
+  "page": 99,
+  "title": "Socioeconomic Effects of Astronomy Education for the Community",
+  "subtitle": "on Sustainable Employment and Economic Growth",
+  "intro": "Where curiosity meets community — exploring how astrotourism, festivals, and dark-sky stewardship create jobs, uplift local economies, and protect the night sky for all.",
+  "goal": "C",
+  "qcode": "C.2",
+  "question": "How do astronomy-related initiatives impact the community on sustainable employment and economic growth?",
+  "table": "70",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Astrotourism, such as star camps, as an employment opportunity for local industries and communities",
+      "desc": "This topic studies astrotourism, such as star camps, as a source of local employment. Economic surveys and community interviews can trace jobs and income created. The findings show how the night sky can support livelihoods.",
+      "variables": "Independent — astrotourism activity (star camps); Dependent — local employment and income; Controls — season, locale.",
+      "method": "Mixed-methods economic-impact study",
+      "method_text": "A mixed-methods economic-impact design suits this topic, combining economic data with community perspectives. Employment and income indicators are gathered from records and surveys, while interviews explain how benefits arise and spread. Local multiplier effects are estimated.",
+      "stats": "Descriptive economic indicators; input–output or multiplier estimates; regression; thematic analysis."
+     },
+     {
+      "n": "2",
+      "title": "Community-led initiatives that offer unique stargazing experiences and contribute to the local economy",
+      "desc": "This research examines community-led stargazing initiatives and their economic contribution. Case studies of local ventures can document benefits and challenges. The work reveals how grassroots astronomy strengthens local economies.",
+      "variables": "Key variables — community-initiative type; economic contribution; sustainability.",
+      "method": "Case study",
+      "method_text": "A case-study design fits because it examines community-led stargazing initiatives in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis; descriptive economic indicators; sustainability appraisal."
+     },
+     {
+      "n": "3",
+      "title": "Astrotourism as a driver of workforce development, creating opportunities for training and education in astronomy, tourism, and science communication",
+      "desc": "This topic explores astrotourism as a driver of workforce development in astronomy, tourism, and science communication. Mapping training pathways and job creation can capture its reach. The findings show how curiosity can build careers.",
+      "variables": "Independent — astrotourism training pathways; Dependent — skills gained and jobs created.",
+      "method": "Mixed-methods",
+      "method_text": "A convergent mixed-methods design suits this topic, gathering quantitative and qualitative data in parallel about astrotourism as a driver of workforce development. Measures or surveys capture the broad pattern while interviews or open responses add depth, and the two strands are merged in interpretation. The combination offsets the limits of either method alone.",
+      "stats": "Descriptive workforce indicators; pretest–posttest skills; regression; thematic analysis."
+     },
+     {
+      "n": "4",
+      "title": "Economic growth in mobility support and transportation logistics as ancillary industries of astrotourism",
+      "desc": "This research studies the growth of mobility and transport services that support astrotourism. Economic analysis can trace these ancillary industries and their value. The work reveals the wider ripple of astronomy-based tourism.",
+      "variables": "Key variables — astrotourism demand; ancillary transport activity and revenue.",
+      "method": "Economic descriptive-correlational",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe astrotourism demand and ancillary transport activity and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Descriptive economic indicators; correlation and regression; trend analysis."
+     },
+     {
+      "n": "5",
+      "title": "Tours of astronomy-based attractions — observatories, planetariums, and science centers — as agents of science communication",
+      "desc": "This topic examines tours of observatories, planetariums, and science centres as science communication. Visitor surveys can measure both learning and economic impact. The findings show how attractions inform and inspire at once.",
+      "variables": "Independent — attraction tours; Dependent — visitor learning and economic impact.",
+      "method": "Mixed-methods evaluation",
+      "method_text": "A program-evaluation design is appropriate for judging the value of tours of astronomy-based attractions as science communication. Using an inputs–process– outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Pretest–posttest knowledge t-tests; descriptive economic indicators; thematic analysis."
+     },
+     {
+      "n": "6",
+      "title": "Developing astronomy-based infrastructure designs for hospitality services",
+      "desc": "This research explores astronomy-themed infrastructure and design for hospitality services. Case studies of dark-sky lodges and facilities can reveal good practice. The work links astronomy to sustainable, place-based development.",
+      "variables": "Key variables — design features; guest experience; sustainability.",
+      "method": "Case study / design study",
+      "method_text": "A case-study design fits because it examines astronomy-based hospitality and infrastructure designs in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis; mean guest-experience ratings; sustainability appraisal."
+     },
+     {
+      "n": "7",
+      "title": "Production of astronomy-based products for the marketing of local businesses and entrepreneurs",
+      "desc": "This topic studies the creation of astronomy-based products for local businesses and entrepreneurs. Market analysis and design work can explore promising possibilities. The findings show how science can seed local enterprise.",
+      "variables": "Independent — astronomy-based products; Dependent — market response and local benefit.",
+      "method": "Market analysis (descriptive-correlational)",
+      "method_text": "A descriptive-correlational design fits, since the aim is to describe astronomy-based products and their market response and examine how they relate rather than to manipulate them. Validated scales and outcome measures are administered to a representative sample without any intervention. The pattern of associations shows which factors most strongly track with outcomes and sets up later experimental work.",
+      "stats": "Descriptive sales metrics; correlation; conjoint or rating analysis of preferences."
+     },
+     {
+      "n": "8",
+      "title": "Organization of astronomy-based events, festivals, and phenomena as attractions",
+      "desc": "This research examines astronomy events, festivals, and sky phenomena as community attractions. Case studies of eclipses, meteor showers, and star parties can capture their draw. The work reveals how celestial moments bring people together.",
+      "variables": "Independent — astronomy events and festivals; Dependent — attendance, economic, and awareness impact.",
+      "method": "Evaluation / case study",
+      "method_text": "A program-evaluation design is appropriate for judging the value of astronomy-based events, festivals, and phenomena as attractions. Using an inputs–process– outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Descriptive attendance and economic indicators; pretest–posttest awareness surveys; thematic analysis."
+     },
+     {
+      "n": "9",
+      "title": "Sustainable community practices on dark sky preservation and environmental conservation, maintaining natural and cultural integrity",
+      "desc": "This topic investigates sustainable practices for dark-sky preservation and environmental care. Policy review and community studies can identify what works. The findings help protect natural darkness and cultural heritage together.",
+      "variables": "Key variables — dark-sky preservation practices and policies; environmental and cultural outcomes.",
+      "method": "Case study / policy review",
+      "method_text": "A case-study design fits because it examines dark-sky preservation and conservation practices in communities in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Thematic and content analysis; descriptive indicators of outcomes; policy appraisal."
+     },
+     {
+      "n": "10",
+      "title": "Exploring collaborative partnerships between schools, families, and community organizations",
+      "desc": "This research explores partnerships among schools, families, and community organisations. Case studies of collaborative projects can reveal how they form and thrive. The work shows how shared effort widens the reach of astronomy.",
+      "variables": "Key variables — partnership arrangements; participation; outcomes.",
+      "method": "Case study",
+      "method_text": "A case-study design fits because it examines school–family–community partnerships in astronomy in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis and pattern matching; descriptive summaries of reach or participation where records allow."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.10",
+  "page": 106,
+  "title": "The Impact of Science Centers and Science Museums in Advancing Astronomy Education",
+  "subtitle": "",
+  "intro": "Planetariums, museums, and interactive exhibits as places of wonder — inviting spaces that bring astronomical discovery to life for learners of every age.",
+  "goal": "D",
+  "qcode": "D.1",
+  "question": "What are the roles of science centers and science museums in promoting astronomy education?",
+  "table": "71",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "The impact of planetariums on students’ interest in astronomy",
+      "desc": "This topic studies how planetariums shape students' interest in astronomy. Before-and-after surveys around planetarium visits can measure their effect. The findings reveal the power of the dome to awaken wonder.",
+      "variables": "Independent — planetarium visit; Dependent — interest in astronomy; Controls — prior interest.",
+      "method": "Quasi-experimental / evaluation",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through a planetarium visit and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in interest in astronomy can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Pretest–posttest t-tests; ANCOVA on prior interest; Cohen’s d effect size."
+     },
+     {
+      "n": "2",
+      "title": "The role of interactive exhibits in learning astronomy",
+      "desc": "This research examines how interactive exhibits support astronomy learning. Observations and visitor feedback can reveal which exhibits teach best. The work guides the design of exhibits that both delight and inform.",
+      "variables": "Independent — interactive-exhibit use; Dependent — astronomy learning; Controls — dwell time.",
+      "method": "Quasi-experimental / observational",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through interactive astronomy exhibits and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in learning can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Pretest–posttest gains; regression on engagement/dwell time; effect size."
+     },
+     {
+      "n": "3",
+      "title": "Exploration of planetariums, science centers, and science museums’ role in astronomy",
+      "desc": "This topic explores the broader role of planetariums, science centres, and museums in astronomy. Case studies across sites can map their educational contributions. The findings show how these places serve as public classrooms for the cosmos.",
+      "variables": "Key variables — institutional programmes; educational contribution; audience reach.",
+      "method": "Case study",
+      "method_text": "A case-study design fits because it examines planetariums, science centres, and museums in their educational role in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis and pattern matching; descriptive summaries of reach or participation where records allow."
+     },
+     {
+      "n": "4",
+      "title": "Exploring the effects of scientist-led science talks on astronomy education",
+      "desc": "This research studies the effects of scientist-led talks on astronomy education. Audience surveys can capture changes in knowledge and inspiration. The work reveals how meeting real scientists shapes learners' aspirations.",
+      "variables": "Independent — exposure to scientist-led talks; Dependent — knowledge and inspiration/aspiration.",
+      "method": "Quasi-experimental / evaluation",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through scientist-led science talks and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in knowledge and aspiration can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Pretest–posttest t-tests; effect size; thematic analysis of open responses."
+     },
+     {
+      "n": "5",
+      "title": "Investigating the role of planetariums, science museums, and science centers in promoting astronomical discovery, exploration, and science communication",
+      "desc": "This topic investigates how these institutions promote discovery, exploration, and science communication. Case studies and visitor studies can document their wider influence. The findings highlight their vital role in a scientifically curious society.",
+      "variables": "Key variables — institutional science-communication activities; public understanding and engagement.",
+      "method": "Mixed-methods case study",
+      "method_text": "A convergent mixed-methods design suits this topic, gathering quantitative and qualitative data in parallel about how these institutions promote discovery and science communication. Measures or surveys capture the broad pattern while interviews or open responses add depth, and the two strands are merged in interpretation. The combination offsets the limits of either method alone.",
+      "stats": "Descriptive engagement indicators; pre/post understanding measures; thematic analysis."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.11",
+  "page": 111,
+  "title": "Strategic Approaches of Space Agencies and Research Institutions",
+  "subtitle": "to Elevate Astronomy Education Initiatives",
+  "intro": "Charting the strategic role of space agencies and research institutions — from correcting misconceptions to widening access, so that astronomy belongs to everyone.",
+  "goal": "D",
+  "qcode": "D.2",
+  "question": "How can government space agencies and research institutions better stimulate astronomy education and public interest in astronomy?",
+  "table": "72",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "The role of space agencies in addressing astronomy misconceptions",
+      "desc": "This topic studies how space agencies help correct common astronomy misconceptions. Analysis of their communication efforts and audience surveys can reveal impact. The findings show how trusted institutions can set the record straight.",
+      "variables": "Independent — agency communication or campaign; Dependent — change in misconceptions.",
+      "method": "Quasi-experimental / evaluation",
+      "method_text": "A quasi-experimental pretest–posttest control-group design suits this topic. Two comparable intact classes are used — one taught through a space-agency communication campaign and the other through conventional instruction — and both take equivalent pre- and post-tests so that changes in astronomy misconceptions can be traced to the approach. Matching the groups on prior ability keeps the comparison fair, making the design practical for schools while still supporting cause-and-effect claims.",
+      "stats": "Pretest–posttest misconception frequencies; McNemar or t-tests; effect size."
+     },
+     {
+      "n": "2",
+      "title": "Collaboration between space agencies, educational institutions, and science centers in advancing astronomy education",
+      "desc": "This research examines collaboration among space agencies, schools, and science centres. Case studies of joint programmes can map how they advance education. The work reveals how institutional partnerships strengthen learning.",
+      "variables": "Key variables — collaboration structures; educational advancement achieved.",
+      "method": "Case study",
+      "method_text": "A case-study design fits because it examines collaboration among space agencies, schools, and science centres in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis and pattern matching; descriptive summaries of reach or participation where records allow."
+     },
+     {
+      "n": "3",
+      "title": "Strategies of government agencies and research institutions to promote astronomy education",
+      "desc": "This topic explores strategies that government agencies and institutions use to promote astronomy education. Policy analysis and interviews can document effective approaches. The findings offer a menu of proven promotion strategies.",
+      "variables": "Key variables — promotion strategies; reach and effectiveness.",
+      "method": "Document analysis with key informants",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as agency plans, reports, and promotion records. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content and thematic analysis; descriptive reach indicators; inter-coder reliability."
+     },
+     {
+      "n": "4",
+      "title": "Comparative analysis of astronomy education in the international landscape",
+      "desc": "This research compares astronomy education across countries to learn from the wider world. Cross-national document analysis can surface useful models and lessons. The work helps the Philippines chart a globally informed path.",
+      "variables": "Key variables — national astronomy-education models; enabling factors; outcomes.",
+      "method": "Comparative design",
+      "method_text": "A comparative design is appropriate for setting local practice against astronomy-education systems in other countries. Cases are selected on defined criteria and comparable data assembled from official documents, reports, and literature. Systematic side-by-side analysis surfaces transferable lessons and meaningful contrasts.",
+      "stats": "Cross-case matrices and content analysis; descriptive comparison of indicators; standardised comparison of rates or scores where numeric."
+     },
+     {
+      "n": "5",
+      "title": "Leveraging the digital frontier for astronomy education",
+      "desc": "This topic studies how the digital frontier can be leveraged for astronomy education. Trials of online platforms and digital outreach can measure their reach. The findings show how technology widens access to the sky.",
+      "variables": "Independent — digital platform or outreach; Dependent — reach, engagement, and learning.",
+      "method": "Design-based research / evaluation",
+      "method_text": "A design-based research approach fits, developing and testing digital platforms for astronomy education through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Analytics (reach, engagement); pretest–posttest learning t-tests; effect size."
+     },
+     {
+      "n": "6",
+      "title": "Human capital and innovative technologies in astronomy education",
+      "desc": "This research examines human capital and innovative technologies in astronomy education. Reviewing workforce needs and emerging tools can chart future directions. The work helps ensure people and technology grow together.",
+      "variables": "Key variables — workforce capacity; emerging technologies; readiness.",
+      "method": "Descriptive survey / document analysis",
+      "method_text": "A descriptive survey design is appropriate for mapping the current picture. An expert-validated questionnaire is administered to a representative, stratified sample of the astronomy-education workforce and stakeholders, and responses are summarised to portray prevailing conditions. Stratification ensures different groups are fairly represented and comparable.",
+      "stats": "Descriptive indicators; gap analysis; correlation of capacity with readiness."
+     },
+     {
+      "n": "7",
+      "title": "Investigating the role of space agencies in promoting astronomy to underrepresented groups",
+      "desc": "This topic investigates how space agencies bring astronomy to underrepresented groups. Programme evaluations can reveal who is reached and how. The findings guide outreach that closes gaps in access.",
+      "variables": "Independent — targeted programmes; Dependent — participation and outcomes among underrepresented groups.",
+      "method": "Program evaluation",
+      "method_text": "A program-evaluation design is appropriate for judging the value of programmes bringing astronomy to underrepresented groups. Using an inputs–process– outcomes framework, data are gathered from participants before and after through surveys, records, and interviews. Clear criteria and multiple data sources make the judgement fair and defensible.",
+      "stats": "Descriptive participation by group; chi-square; pretest–posttest outcomes."
+     },
+     {
+      "n": "8",
+      "title": "Space agencies in promoting diversity and inclusion in astronomy",
+      "desc": "This research studies how space agencies promote diversity and inclusion in astronomy. Analysis of their initiatives and participants can reveal progress and gaps. The work supports a more representative astronomy community.",
+      "variables": "Key variables — diversity initiatives; participant representation; inclusion.",
+      "method": "Descriptive survey / document analysis",
+      "method_text": "A descriptive survey design is appropriate for mapping the current picture. An expert-validated questionnaire is administered to a representative, stratified sample of agency diversity initiatives and participants, and responses are summarised to portray prevailing conditions. Stratification ensures different groups are fairly represented and comparable.",
+      "stats": "Diversity indices; chi-square tests; thematic analysis of initiatives."
+     },
+     {
+      "n": "9",
+      "title": "Examining best practices of government space agencies and research institutions in enabling accessible astronomy opportunities for individuals with disabilities",
+      "desc": "This topic examines best practices for making astronomy accessible to people with disabilities. Case studies of inclusive programmes can identify what works well. The findings help open the sky to everyone, without exception.",
+      "variables": "Key variables — accessibility practices; participation and experience of persons with disabilities.",
+      "method": "Multiple-case study",
+      "method_text": "A case-study design fits because it examines inclusive programmes enabling access for persons with disabilities in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis and pattern matching; descriptive summaries of reach or participation where records allow."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.12",
+  "page": 117,
+  "title": "National and International Mandates and Regulations",
+  "subtitle": "for Astronomy Education and Research",
+  "intro": "Laying firm foundations — the laws, institutions, and international linkages that can give astronomy a lasting home in the Philippines.",
+  "goal": "E",
+  "qcode": "E.1",
+  "question": "What possible laws and regulations could be proposed to enhance astronomy in the country further?",
+  "table": "73",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Assessment of Philippine science and astronomy laws as a basis for policy development",
+      "desc": "This topic assesses existing Philippine science and astronomy laws as a basis for policy. Legal and document analysis can map current provisions and gaps. The findings lay the groundwork for stronger astronomy policy.",
+      "variables": "Key variables — existing legal provisions; gaps; policy needs.",
+      "method": "Document / legal analysis",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as Philippine science and astronomy laws and related policy. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content and thematic analysis with category frequencies; a validated coding rubric with inter-coder reliability (Cohen’s kappa)."
+     },
+     {
+      "n": "2",
+      "title": "Reforming astronomy education in the Philippines, emphasizing astronomy skills (instrumentation and observation) as technical-vocational training for employment",
+      "desc": "This research explores reforming astronomy education to serve as technical-vocational training for employment. Curriculum analysis and industry consultation can shape practical pathways. The work links astronomy skills to real career opportunities.",
+      "variables": "Key variables — astronomy skills; technical-vocational pathways; linkage to employment.",
+      "method": "Policy and needs analysis (mixed)",
+      "method_text": "A mixed policy-and-needs-analysis design suits this topic, combining document review with stakeholder consultation. Curricula and labour-market information are analysed while industry and educators are consulted on viable pathways. The result is an evidence-based reform proposal.",
+      "stats": "Descriptive needs indicators; document and content analysis; thematic analysis of consultations."
+     },
+     {
+      "n": "3",
+      "title": "Developing the national astronomy and space education institute and research and development center",
+      "desc": "This topic studies the case for a national astronomy and space education institute and R&D centre. Feasibility studies and stakeholder consultation can outline its shape. The findings help build the institutions astronomy needs to flourish.",
+      "variables": "Key variables — institutional needs; feasibility factors; stakeholder support.",
+      "method": "Feasibility study",
+      "method_text": "A feasibility-study design fits, appraising the case for a national astronomy and space education institute. Needs, resources, and stakeholder support are assessed through documents, surveys, and consultation. Options are weighed against clear criteria.",
+      "stats": "Descriptive feasibility indicators; SWOT and cost appraisal; thematic analysis of stakeholder input."
+     },
+     {
+      "n": "4",
+      "title": "Facilitating global collaboration in astronomy research through international linkages",
+      "desc": "This research examines how international linkages can advance Philippine astronomy research. Mapping existing and potential partnerships can reveal opportunities. The work shows how global collaboration multiplies local capacity.",
+      "variables": "Key variables — linkage mechanisms; research-capacity gains.",
+      "method": "Document analysis / case study",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as international-linkage agreements and partnership records. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Document and network analysis; descriptive capacity indicators; thematic analysis."
+     },
+     {
+      "n": "5",
+      "title": "Safeguarding Philippine ethnoastronomical heritage",
+      "desc": "This topic investigates how to safeguard Philippine ethnoastronomical heritage. Archival research and community engagement can document and protect it. The findings help preserve the nation's ancestral knowledge of the sky.",
+      "variables": "Key variables — heritage elements at risk; safeguarding mechanisms.",
+      "method": "Qualitative documentation / policy review",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as ethnoastronomical heritage records and safeguarding policy. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Thematic and content analysis; a documented heritage inventory; triangulation."
+     },
+     {
+      "n": "6",
+      "title": "Developing a legal framework for extraterrestrial research and exploration",
+      "desc": "This research explores the legal framework needed for extraterrestrial research and exploration. Comparative policy analysis can inform a sound national approach. The work prepares the country for a growing frontier of space activity.",
+      "variables": "Key variables — existing space-law provisions; national needs; framework options.",
+      "method": "Comparative legal / document analysis",
+      "method_text": "A comparative design is appropriate for setting local practice against national and international space-law frameworks. Cases are selected on defined criteria and comparable data assembled from official documents, reports, and literature. Systematic side-by-side analysis surfaces transferable lessons and meaningful contrasts.",
+      "stats": "Comparative content analysis; provision-mapping matrices; thematic synthesis."
+     },
+     {
+      "n": "7",
+      "title": "Implementation of sustainable space operations and research activities",
+      "desc": "This topic studies how to implement sustainable space operations and research activities. Policy review and best-practice analysis can guide responsible practice. The findings help ensure space work is safe, ethical, and lasting.",
+      "variables": "Key variables — operational practices; sustainability and safety standards.",
+      "method": "Document / best-practice analysis",
+      "method_text": "A qualitative document-analysis design is well suited, since the evidence lies in existing texts such as space-operations guidelines and sustainability standards. Documents are gathered against clear inclusion criteria and read systematically with a coding framework, and findings are triangulated across sources and key-informant interviews. This yields a grounded, evidence-based reading of the situation.",
+      "stats": "Content and thematic analysis; best-practice benchmarking; inter-coder reliability."
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "code": "R.13",
+  "page": 122,
+  "title": "Cultural Diversity Systems in Astronomy Education and Research",
+  "subtitle": "",
+  "intro": "Honouring the skies of our ancestors — weaving Philippine ethnoastronomy and indigenous knowledge into modern learning, so heritage and discovery grow together.",
+  "goal": "E",
+  "qcode": "E.2",
+  "question": "How can cultural beliefs and practices related to astronomy be incorporated into astronomy education to promote cultural diversity and inclusivity?",
+  "table": "74",
+  "groups": [
+   {
+    "name": "",
+    "topics": [
+     {
+      "n": "1",
+      "title": "Integrating ethnoastronomy into the Philippine science curriculum: challenges and opportunities",
+      "desc": "This topic explores integrating ethnoastronomy into the Philippine science curriculum. Curriculum design and community consultation can chart challenges and opportunities. The work helps learners see their own heritage reflected in science.",
+      "variables": "Key variables — ethnoastronomy content; integration strategies; learner response.",
+      "method": "Design / development study (mixed)",
+      "method_text": "A design-based research approach fits, developing and testing ethnoastronomy-integrated science lessons through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Content-validity index; pretest–posttest learner outcomes; thematic analysis; effect size."
+     },
+     {
+      "n": "2",
+      "title": "The role of indigenous Philippine astronomical knowledge in modern astronomy education",
+      "desc": "This research studies the role of indigenous Philippine astronomical knowledge in modern education. Ethnographic research and archival work can gather and honour this wisdom. The findings enrich teaching with the nation's own way of reading the sky.",
+      "variables": "Key variables — indigenous astronomical knowledge; its educational application.",
+      "method": "Ethnographic qualitative study",
+      "method_text": "An ethnographic qualitative design suits this topic, immersing the researcher with indigenous knowledge-holders and communities to document knowledge and practice in context. Field observation, interviews, and artefact study are gathered respectfully with community consent and analysed for cultural meaning. Prolonged engagement and triangulation secure authenticity.",
+      "stats": "Thematic and cultural analysis; comparative cross-case mapping; triangulation and member checking; a documented inventory of practices."
+     },
+     {
+      "n": "3",
+      "title": "Philippine ethnoastronomy: a tool for cultural preservation and education",
+      "desc": "This topic examines Philippine ethnoastronomy as a tool for cultural preservation and education. Documentation and classroom trials can test its educational value. The work weaves heritage and learning into a single thread.",
+      "variables": "Key variables — ethnoastronomy practices; preservation and educational value.",
+      "method": "Case study / ethnographic",
+      "method_text": "A case-study design fits because it examines ethnoastronomy as a tool for preservation and education in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Thematic analysis; a documented practice inventory; triangulation."
+     },
+     {
+      "n": "4",
+      "title": "Exploring the different ethnoastronomical practices of the indigenous groups in the Philippines",
+      "desc": "This research investigates the ethnoastronomical practices of indigenous groups across the Philippines. Fieldwork and interviews with communities can record these traditions. The findings celebrate and safeguard a rich cultural diversity of skies.",
+      "variables": "Key variables — ethnoastronomical practices across groups; cultural meanings.",
+      "method": "Ethnography / field documentation",
+      "method_text": "An ethnographic qualitative design suits this topic, immersing the researcher with indigenous groups across the Philippines to document knowledge and practice in context. Field observation, interviews, and artefact study are gathered respectfully with community consent and analysed for cultural meaning. Prolonged engagement and triangulation secure authenticity.",
+      "stats": "Thematic and cultural analysis; comparative cross-case mapping; triangulation and member checking; a documented inventory of practices."
+     },
+     {
+      "n": "5",
+      "title": "Exploring the integration of dark sky preservation, environmental conservation, and cultural integrity in astrotourism communities",
+      "desc": "This topic explores linking dark-sky preservation, environmental care, and cultural integrity in astrotourism communities. Case studies can reveal how these goals reinforce one another. The work shows how protecting the night sky protects culture too.",
+      "variables": "Key variables — preservation, conservation, and cultural-integrity practices; community outcomes.",
+      "method": "Case study",
+      "method_text": "A case-study design fits because it examines astrotourism communities balancing dark-sky, conservation, and culture in depth within its real-world context. Evidence is drawn from multiple sources — interviews, documents, and observation — and analysed within and across cases. Triangulating these sources strengthens the credibility of the conclusions.",
+      "stats": "Cross-case thematic analysis and pattern matching; descriptive summaries of reach or participation where records allow."
+     },
+     {
+      "n": "6",
+      "title": "Promoting sustainable practices and science concepts through ethnoastronomy",
+      "desc": "This research studies how ethnoastronomy can promote sustainable practices and science concepts. Community-based projects can connect traditional knowledge with science learning. The findings reveal how heritage can teach both wonder and stewardship.",
+      "variables": "Independent — ethnoastronomy-based lessons; Dependent — sustainability awareness and science understanding.",
+      "method": "Mixed-methods / design-based",
+      "method_text": "A design-based research approach fits, developing and testing ethnoastronomy-based lessons on sustainability and science through iterative cycles in authentic classrooms. Each cycle builds the intervention, gathers evidence on how it performs, and feeds refinements into the next — yielding both an improved product and reusable design principles. Working in real settings keeps the findings practical.",
+      "stats": "Pretest–posttest t-tests; thematic analysis; effect size."
+     },
+     {
+      "n": "7",
+      "title": "Preserving Philippine indigenous practices and cultural astronomy",
+      "desc": "This topic examines how to preserve Philippine indigenous practices and cultural astronomy. Documentation and revitalisation efforts can keep these traditions alive. The work ensures ancestral skies continue to guide future generations.",
+      "variables": "Key variables — indigenous practices at risk; revitalisation strategies.",
+      "method": "Ethnography / documentation",
+      "method_text": "An ethnographic qualitative design suits this topic, immersing the researcher with communities safeguarding cultural astronomy to document knowledge and practice in context. Field observation, interviews, and artefact study are gathered respectfully with community consent and analysed for cultural meaning. Prolonged engagement and triangulation secure authenticity.",
+      "stats": "Thematic and cultural analysis; comparative cross-case mapping; triangulation and member checking; a documented inventory of practices."
+     }
+    ]
+   }
+  ]
+ }
+]
